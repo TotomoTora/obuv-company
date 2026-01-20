@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr08_tugin", "pr08_tugin\pr08_tugin.csproj", "{27E165DA-FC5B-43CA-81A2-F22544B20D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E165DA-FC5B-43CA-81A2-F22544B20D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E165DA-FC5B-43CA-81A2-F22544B20D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E165DA-FC5B-43CA-81A2-F22544B20D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E165DA-FC5B-43CA-81A2-F22544B20D57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A3E9D82-A1AF-40E4-94F7-D4F52101A175}
+	EndGlobalSection
+EndGlobal

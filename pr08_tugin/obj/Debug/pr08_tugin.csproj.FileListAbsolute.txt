@@ -1,0 +1,8 @@
+D:\pr08_tugin\pr08_tugin\obj\Debug\pr08_tugin.Properties.Resources.resources
+D:\pr08_tugin\pr08_tugin\obj\Debug\pr08_tugin.csproj.GenerateResource.cache
+D:\pr08_tugin\pr08_tugin\obj\Debug\pr08_tugin.csproj.CoreCompileInputs.cache
+D:\pr08_tugin\pr08_tugin\bin\Debug\pr08_tugin.exe.config
+D:\pr08_tugin\pr08_tugin\bin\Debug\pr08_tugin.exe
+D:\pr08_tugin\pr08_tugin\bin\Debug\pr08_tugin.pdb
+D:\pr08_tugin\pr08_tugin\obj\Debug\pr08_tugin.exe
+D:\pr08_tugin\pr08_tugin\obj\Debug\pr08_tugin.pdb
