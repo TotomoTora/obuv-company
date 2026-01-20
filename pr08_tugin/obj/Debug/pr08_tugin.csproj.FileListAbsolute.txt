@@ -6,3 +6,4 @@ D:\pr08_tugin\pr08_tugin\bin\Debug\pr08_tugin.exe
 D:\pr08_tugin\pr08_tugin\bin\Debug\pr08_tugin.pdb
 D:\pr08_tugin\pr08_tugin\obj\Debug\pr08_tugin.exe
 D:\pr08_tugin\pr08_tugin\obj\Debug\pr08_tugin.pdb
+D:\pr08_tugin\pr08_tugin\obj\Debug\pr08_tugin.csproj.AssemblyReference.cache
